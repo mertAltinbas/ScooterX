@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ScooterX</string>
+    <string name="title_activity_instruction_page">InstructionPage</string>
+    <string name="title_activity_models_page">ModelsPage</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_map_screen">MapScreenActivity</string>
+
+    <string name="scan_to_ride">Scan To Ride</string>
+
+    <string name="battery">Battery</string>
+    <string name="speed">Speed</string>
+    <string name="fee">Fee</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="ring">Ring</string>
+    <string name="report">Report</string>
+    <string name="title_activity_driving_page">DrivingPage</string>
+    <string name="title_activity_options">Options</string>
+</resources>
